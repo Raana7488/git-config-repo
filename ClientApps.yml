@@ -1,6 +1,0 @@
-spring:
-  spring:
-    application:
-    name: ClientApps
-welcome:
-  message: welcome to dev env
